@@ -537,21 +537,6 @@ done
 echo "🎉 All rclone services ready!"
 ```
 
-## 🤝 贡献指南
-
-欢迎提交 Issue 和 Pull Request！
-
-### 贡献类型
-- 📝 改进文档
-- 🐛 修复错误
-- ✨ 添加新的云存储配置
-- 🔧 优化脚本和配置
-
-### 提交规范
-- 使用清晰的提交信息
-- 遵循现有的文档格式
-- 测试所有代码示例
-
 ## 📄 许可证
 
 MIT License - 详见 [LICENSE](LICENSE) 文件
